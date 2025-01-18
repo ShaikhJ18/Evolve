@@ -27,8 +27,6 @@ Evolve is a social media platform dedicated to self-improvement, knowledge shari
 - Follow functionality to connect with other users.
 - Basic feed displaying posts from followed users in chronological order.
 
-## Installation
-
 ### Backend
 1. Clone the repository:
    ```bash
